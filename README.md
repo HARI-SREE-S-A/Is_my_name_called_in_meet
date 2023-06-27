@@ -24,8 +24,7 @@ Harvis is a personal AI assistant built using Python. It utilizes speech recogni
 
      ```shell
       pip install pyttsx3 speechrecognition sounddevice
-3.Run:
-    ```shell
+
       python harvis.py
 Usage
 Harvis will greet you with a welcome message.
