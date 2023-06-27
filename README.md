@@ -20,8 +20,19 @@ Harvis is a personal AI assistant built using Python. It utilizes speech recogni
 
    ```shell
    git clone https://github.com/HARI-SREE-S-A/Is_my_name_called_in_meet.git
-   pip install pyttsx3 speechrecognition sounddevice
+2.Dependencies:
+
+    ```shell
+      pip install pyttsx3 speechrecognition sounddevice
+
+3.Run:
+   ```shell
    python harvis.py
+
+
+
+
+
 
 
 
