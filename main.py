@@ -3,7 +3,7 @@ import speech_recognition as sr
 import sounddevice as sd
 
 names = ["hari" , "Harry" ,"Haryysree" ,"Hari sree" ,"haris"]
-b  = []
+
 
 engine = pyttsx3.init()
 r = sr.Recognizer()
