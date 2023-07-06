@@ -5,6 +5,7 @@ import sounddevice as sd
 names = ["hari" , "Harry" ,"Haryysree" ,"Hari sree" ,"haris"]
 
 
+
 engine = pyttsx3.init()
 r = sr.Recognizer()
 mic = sr.Microphone()
