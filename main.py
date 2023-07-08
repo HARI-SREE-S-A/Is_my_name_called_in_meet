@@ -2,7 +2,7 @@ import pyttsx3
 import speech_recognition as sr
 import sounddevice as sd
 
-names = ["hari" , "Harry" ,"Haryysree" ,"Hari sree" ,"haris","harvis"]
+names = ["hari" , "Harry" ,"Haryysree" ,"Hari sree" ,"haris","harvis","har"]
 
 
 
